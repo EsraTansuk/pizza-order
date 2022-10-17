@@ -1,0 +1,3 @@
+git init github ta oluşturduğum repoyu proje klasörüme bağlıyorum 
+proje klasöründe npm init 
+bağlı olduğum node paketlerini yüklüyorum (webpack bootstrap)
